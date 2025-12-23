@@ -20,6 +20,4 @@ thinc 8.3.6 requires numpy<3.0.0,>=2.0.0, but you have numpy 1.26.4 which is inc
 -----------------------
 
 Successfully installed numpy-1.26.4
-
-
-However, all the codes section will be successfully run after successfully installed compatible numpy version. 
+However, all the codes section will be successfully run after successfully installed compatible numpy version.
