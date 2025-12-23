@@ -4,6 +4,8 @@
    !pip install scikit-surprise
    !pip uninstall -y numpy
    !pip install numpy==1.26.4 # if python version is not compatible
+
+   
 P.S. Please igore below error as numpy 1.26.4 is successfully installed and subsequence code sections will be running successfully.
    "Error: pip's dependenchy resolver does not currently take into account all packages that are installed.... "
 
